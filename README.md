@@ -92,7 +92,7 @@ Create a new branch:
 * git commit -m 'Add some feature'
 * 
 *Push to the branch:*
-*git push origin feature-branch
+* git push origin feature-branch
 Open a pull request.
 
 ## License
@@ -101,6 +101,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 Feel free to reach out if you have any questions or would like to collaborate on a project.
 
-Email:juliettengum19@gmail.com
-LinkedIn: Your LinkedIn Profile
-GitHub: https://github.com/juliettengum
+* Email:juliettengum19@gmail.com
+* LinkedIn: https://www.linkedin.com/in/juliette-ngum-a38689236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSQTlpRjZS%2F22d%2BDbGDUDmw%3D%3D
+* GitHub: https://github.com/juliettengum
