@@ -1,0 +1,87 @@
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  position: relative; /* To contain the absolute positioning of vertical lines */
+}
+
+.about-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-bottom: 30px;
+  position: relative;
+  padding-bottom: 30px;
+}
+
+.profile-pic {
+  flex: 0 0 200px; /* Fixed width for the image */
+  height: 200px;
+  border-radius: 50%;
+  margin-right: 20px;
+  border: 2px solid white; 
+}
+
+.about-text {
+  flex: 1;
+  padding-left: 40px; /* Adjust this value to move the text further to the right */
+}
+
+h2, h3 {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 2em;
+  color: white; /* Bright color */
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.about-text p, .about-text ul {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: white; /* Bright color */
+}
+
+.section-divider {
+  border-top: 1px solid #ddd; /* Horizontal line */
+  margin: 20px 0;
+}
+
+/* Add styles for the vertical line */
+.about-content::before, .skills-section::before, .interests-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 200px; /* Adjust according to the image width and margin */
+  width: 1px;
+  background-color: #ddd;
+}
+
+.skills-section, .interests-section {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 30px;
+  margin-bottom: 30px;
+  position: relative; /* To contain the absolute positioning of vertical lines */
+  padding-bottom: 30px;
+}
+
+.skills-section .about-text, .interests-section .about-text {
+  padding-left: 60px; /* Adjust the padding to ensure text is aligned */
+}
+
+.skills-section h3, .interests-section h3 {
+  flex: 0 0 200px; /* Fixed width for the headings */
+  padding-right: 20px;
+  text-align: left;
+}
+
+.skills-section ul, .interests-section p {
+  flex: 1;
+  padding-left: 40px; /* Align text to the right of the vertical line */
+  list-style: none;
+  margin: 0;
+}

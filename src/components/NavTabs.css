@@ -1,0 +1,31 @@
+/* src/components/NavTabs.css */
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #333;
+  padding: 14px 20px;
+  list-style: none;
+  margin: 0;
+}
+
+.nav-item {
+  display: inline;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  background-color: #575757;
+  border-radius: 4px;
+}
+
+.nav-link.active {
+  background-color: #575757;
+  border-radius: 4px;
+}

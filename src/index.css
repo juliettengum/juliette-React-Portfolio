@@ -1,0 +1,50 @@
+/* src/index.css */
+body {
+  font-family: 'Helvetica', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: url('/images/background.jpg') no-repeat center center fixed; /* Ensure you have this image */
+  background-size: cover;
+  color: white; /* Default text color to white */
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #2c3e50;
+  padding: 14px 20px;
+  list-style: none;
+  margin: 0;
+}
+
+.nav-item {
+  display: inline;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 14px 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  background-color: #34495e;
+  border-radius: 4px;
+}
+
+.nav-link.active {
+  background-color: #34495e;
+  border-radius: 4px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: rgba(44, 62, 80, 0.8); /* Slightly transparent dark background */
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
