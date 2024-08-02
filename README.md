@@ -54,7 +54,7 @@ Once the development server is running, you can view the portfolio in your brows
 * Contact: A form to get in touch with me.
 * Resume: A downloadable version of my resume.
 * 
-*Adding New Projects
+* Adding New Projects
 To add a new project to the portfolio:
 
 Open the src/data/projects.js file.
@@ -63,11 +63,11 @@ Add a new object to the projects array with the following structure:
 
 * javascript :
 *{
-  title: 'Project Title',
-  description: 'Brief description of the project.',
-  imageUrl: 'path/to/image.jpg',
-  link: 'http://link-to-project.com',
-  repo: 'http://github.com/link-to-repo',
+  * title: 'Project Title',
+  * description: 'Brief description of the project.',
+  * imageUrl: 'path/to/image.jpg',
+  * link: 'http://link-to-project.com',
+  * repo: 'http://github.com/link-to-repo',
 }*
 * Customizing the Theme
 To customize the theme:
@@ -103,4 +103,4 @@ Feel free to reach out if you have any questions or would like to collaborate on
 
 Email:juliettengum19@gmail.com
 LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+GitHub: https://github.com/juliettengum
