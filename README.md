@@ -18,10 +18,10 @@ Hi, I'm Juliette, a passionate web developer with a knack for creating dynamic a
 * About Me: A brief introduction and background.
 * Portfolio: Showcases my projects with descriptions and links.
 * Blog: Articles about various tech topics.
-# Contact: A form to get in touch with me.
-# Resume: A downloadable version of my resume.
-# Responsive Design: Fully responsive and looks great on all devices.
-# Dark Mode: Toggle between light and dark themes.
+* Contact: A form to get in touch with me.
+* Resume: A downloadable version of my resume.
+* Responsive Design: Fully responsive and looks great on all devices.
+* Dark Mode: Toggle between light and dark themes.
 Demo
 Check out the live demo of my portfolio here.
 
@@ -29,31 +29,30 @@ Check out the live demo of my portfolio here.
 To set up the project locally, follow these steps:
 
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/your-username/portfolio.git
 Navigate to the project directory:
-bash
-Copy code
+
+
 cd portfolio
 Install the dependencies:
-bash
-Copy code
+
 npm install
+
 Start the development server:
-bash
-Copy code
+
 npm start
+
 ## Usage
 Once the development server is running, you can view the portfolio in your browser at http://localhost:3000.
 
 ## Navigation
-Home: A welcome page with a brief introduction.
-About: Detailed information about me.
-Portfolio: A showcase of my projects with descriptions and links.
-Blog: Articles on various tech topics.
-Contact: A form to get in touch with me.
-Resume: A downloadable version of my resume.
+* Home: A welcome page with a brief introduction.
+* About: Detailed information about me.
+* Portfolio: A showcase of my projects with descriptions and links.
+* Blog: Articles on various tech topics.
+* Contact: A form to get in touch with me.
+* Resume: A downloadable version of my resume.
 Adding New Projects
 To add a new project to the portfolio:
 
@@ -61,8 +60,7 @@ Open the src/data/projects.js file.
 
 Add a new object to the projects array with the following structure:
 
-javascript
-Copy code
+* javascript :
 {
   title: 'Project Title',
   description: 'Brief description of the project.',
