@@ -15,9 +15,9 @@ Contact
 Hi, I'm Juliette, a passionate web developer with a knack for creating dynamic and responsive web applications. This portfolio showcases my journey, skills, projects, and interests. I have over 5 years of experience in front-end development and UX/UI design.
 
 ## Features
-# About Me: A brief introduction and background.
-# Portfolio: Showcases my projects with descriptions and links.
-# Blog: Articles about various tech topics.
+* About Me: A brief introduction and background.
+* Portfolio: Showcases my projects with descriptions and links.
+* Blog: Articles about various tech topics.
 # Contact: A form to get in touch with me.
 # Resume: A downloadable version of my resume.
 # Responsive Design: Fully responsive and looks great on all devices.
