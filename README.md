@@ -22,15 +22,19 @@ Hi, I'm Juliette, a passionate web developer with a knack for creating dynamic a
 * Resume: A downloadable version of my resume.
 * Responsive Design: Fully responsive and looks great on all devices.
 * Dark Mode: Toggle between light and dark themes.
-Demo
+## Demo
+[Walkthrough video](https://drive.google.com/file/d/1YwNtN6ytDtl62nJMftXNjZC7Qx3RK8QY/view?usp=drive_link)
 Check out the live demo of my portfolio here.
+
+## Deployed link
+https://clever-salmiakki-10af83.netlify.app/
 
 ## Installation
 To set up the project locally, follow these steps:
 
 Clone the repository:
 
-* git clone https://github.com/your-username/portfolio.git
+* git clone https://github.com/juliettengum/juliette-React-Portfolio
 * 
 * Navigate to the project directory:
 
