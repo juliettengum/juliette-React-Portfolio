@@ -14,7 +14,7 @@ const About = () => {
             Hi, I'm Juliette, a passionate web developer with a knack for creating dynamic and responsive web applications. I have over 5 years of experience in front-end development and UX/UI design. My journey started when I built my first website as a hobby, and since then, I have honed my skills in various technologies including React, Vue.js, and Angular.
           </p>
           <p>
-            I hold a Bachelor's degree in Computer Science from the University of Buea, where I graduated with honors. My strong foundation in computer science principles, combined with my creative flair, allows me to create websites that are not only functional but also aesthetically pleasing.
+            I hold a Bachelor's degree in Geology and environmental science from the University of Buea, where I graduated with honors. My strong foundation in computer science principles, combined with my creative flair, allows me to create websites that are not only functional but also aesthetically pleasing.
           </p>
         </div>
       </div>

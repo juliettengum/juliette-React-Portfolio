@@ -10,6 +10,13 @@ const projects = [
     repoLink: 'https://github.com/emulcahey/Office_Break_Room.git'
   },
   {
+    title: 'J-Shopping',
+    description: 'JShopping is an innovative e-commerce platform designed to offer a seamless shopping experience.',
+    image: '/images/Jshopping.png', 
+    deployedLink: 'https://jshopping.onrender.com/',
+    repoLink: 'https://github.com/juliettengum/JShopping'
+  },
+  {
     title: 'Juliette Note Taker',
     description: 'An app designed to help users take notes and keep track of their tasks. Users can create, save, and delete notes efficiently.',
     image: '/images/NoteTaker.png', 
