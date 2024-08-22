@@ -8,7 +8,7 @@ const Resume = () => {
       <p>
         You can download my resume by clicking the link below:
       </p>
-      <a href="/public/resume.pdf" target="_blank" className="btn-primary">Download Resume</a>
+      <a href="/public/Resume.pdf" target="_blank" className="btn-primary">Download Resume</a>
 
       <h3>Proficiencies</h3>
       <ul>
